@@ -2,7 +2,6 @@
 //  TaskSphereTests.swift
 //  TaskSphereTests
 //
-//  Created by Simon Bakhanets on 10.12.2025.
 //
 
 import Testing
